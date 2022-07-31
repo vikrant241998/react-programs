@@ -1,0 +1,27 @@
+.text-menu {
+    border: 1px solid;
+    width: 100px;
+    position: absolute;
+    right: 24rem;
+}
+
+
+.text-menu ul{
+    background-color: rgb(132, 222, 245);
+    list-style: none;
+    text-align: left;
+}
+
+.text-menu a{
+    text-decoration: none;
+    color: white;
+}
+
+button{
+    width: 98px;
+}
+
+a{
+    display: flex;
+    
+}

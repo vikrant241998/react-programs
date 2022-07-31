@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Vikrant Mulankar",
+        "email": "vikrant@gmail.com",
+        "mobile": 123456789
+    },
+
+    {
+        "id": 2,
+        "name": "Ravi Sharma",
+        "email": "ravi@gmail.com",
+        "mobile": 123456789
+    },
+
+    {
+        "id": 3,
+        "name": "Kishan Kumar",
+        "email": "kishan@gmail.com",
+        "mobile": 123456789
+    },
+
+    {
+        "id": 4,
+        "name": "Priyanka Sharma",
+        "email": "priyanka@gmail.com",
+        "mobile": 123456789
+    },
+
+    {
+        "id": 5,
+        "name": "Sunil Halwaha",
+        "email": "sunil@gmail.com",
+        "mobile": 123456789
+    }
+]
